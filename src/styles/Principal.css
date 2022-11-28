@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.general-p {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 17px;
+  background-color: black;
+}
+
+.div1 {
+  height: 50vh;
+}
+
+.div2 {
+  height: 100vh;
+}
+
+.borders {
+  border-radius: 25% 75% 33% 67% / 76% 22% 78% 24%;
+}
+
+.borders-bottom {
+  margin: 3em;
+  padding: 1em;
+
+  background-color: whitesmoke;
+  border-radius: 15px;
+}
