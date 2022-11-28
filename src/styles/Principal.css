@@ -3,6 +3,12 @@
   padding: 0;
 }
 
+#root,
+body {
+  height: 100vh;
+  background-color: black;
+}
+
 .general-p {
   width: 100%;
   height: auto;
